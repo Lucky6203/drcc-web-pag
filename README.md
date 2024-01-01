@@ -3,4 +3,4 @@
 ### Welcome to Our M N S S B Y Government of Bihar platform Clone Website
 <br><br>
 
-![gitHub.mark](https://github.com/Lucky6203/amazon-clone/blob/main/Screenshot%202024-01-01%20185642.png)
+![gitHub.mark](https://github.com/Lucky6203/drcc-web-pag/blob/main/result%20drcc.png)
