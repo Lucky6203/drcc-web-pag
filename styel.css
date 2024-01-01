@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+.navbar{
+    height: 238px;
+    width:965 px ;
+   background-color:rgba(0,0,0,0);;
+   display: flex;
+   justify-content: space-evenly
+}
+.nav-logo{
+    background-color: transparent;
+    height: 160px;
+    width: 160px;
+
+}
+.logo{
+    background-image: url(logo-shym.png);
+    height: 100px;
+    width: 90px;
+}
+.nav-hader{
+    background-color:transparent;
+    height: 160px;
+    width: 580px;
+}
+.hader{
+    background-image: url(header.png);
+    height: 35px;
+    width: 650px;
+    margin-top: 140px;
+}
+.nav-img{
+    background-color:transparent;
+    height: 160px;
+    width: 160px;
+    margin-right: 120px;
+}
+.nitish-img{
+    background-image: url(nitish-kumar-trans.png);
+    height: 100px;
+    width: 139px;
+}
+.nav-hindi{
+    height: 34px;
+    width:965 px ;
+   background-color:#ffff;
+   display: flex;
+   justify-content: end;
+}
+.hindi p{
+    background-color: yellow;
+    height: 34px;
+    text-align: end;
+}
+.nav-foot{
+    height: 80px;
+    width:965 px ;
+   background-color:#3e4095;
+   display: flex;
+   color: white;
+   justify-content:space-evenly;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.nav-link{
+    height: 80px;
+    width:720ox ;
+    background-color:transparent;
+    display:flex;
+    text-align: center;
+    justify-content:space-evenly ;
+    
+   
+}
+.nav-list{
+    margin-top: 15px;
+}
+.nav-link  a {
+    display: inline;
+    margin-left: 20px;
+    font-size:13px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+.foot-list{
+   
+    margin-top: 15px;
+   text-align: start;
+}
+.panal{
+    height: 60px;
+    width:965 px ;
+   background-color:#fff;
+   display: flex;
+   color: white;
+   margin-top: 20px;
+}
+.panal-himdi p{
+    height:23px;
+    width: 964px;
+    text-align:initial;
+}
+.panal-2{
+    height: 40px;
+    width:965 px ;
+   background-color:#fff;
+   display: flex;
+   color: white;
+   background-color:#fff;
+   justify-content:space-evenly ;
+}
+.panal-list a {
+    display: inline;
+    margin-left:30px;
+    font-size:15px;
+    font-weight: bolder;
+    text-align: center;
+}
+hr{
+    margin-top: 20px;
+}
+.hero{
+    height: 450px;
+    width:965 px ;
+   background-color:#fff;
+   display: flex;
+}
+.hero-img{
+    background-image: url(Screenshot\ 2023-12-06\ 222708.png);
+    height: 400px;
+    width: 1000px;
+    display:flex;
+    margin-top: 30px;
+    margin-left: 60px;
+
+}
+.hero-login{
+    height: 500px;
+    width: 300px;
+   background-color:#3e4095;
+   background-color: ;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.registration{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    color: #333;
+    background-color: #f4ef24;
+    border-color: #f4ef24;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.hero-login p{
+    text-align: center;
+    color: white;
+    margin-top:10px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: inherit;
+}
+.search-user{
+    margin-top: 5px;
+    border-radius: 4px;
+    margin-left: 30px;
+    padding: 8px 35px;
+}
+.captcha{
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #f4ef24;
+    border-color: #f4ef24;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.login{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.user-login{
+    background-color: #f4ef24;
+    font-size: 14px;
+    padding: 8px 20px;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+.password{
+    color: #fff;
+}
+.Privacy-Policy{
+    background-color: #fff;
+    height: 40px;
+    width:1090px;
+    text-align: end;
+    font-size: 14px;
+    
+    
+}
+.Privacy-Policy a{
+    color:green;
+    margin-right:30px;
+}
+.bank-login{
+    font-size: 14px;
+    margin-left: 100PX;
+}
+.bank-login a{
+    color: #333;
+}
+.footer-img{
+    height: 350px;
+    width: 1450px;
+    background-color:transparent;
+    display: flex;
+}
+.drcc-img{
+    background-image: url(drrcc\ img.png);
+    height: 350px;
+    width: 1090px;
+    background-size: cover;
+}
+.drcc-img2{
+    height: 350px;
+    width: 390px;
+    background-color: transparent;
+    background-image: url(Screenshot\ 2023-12-07\ 115823.png);
+    background-size: cover;
+}
